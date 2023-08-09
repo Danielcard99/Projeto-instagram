@@ -335,8 +335,8 @@ section#salvos {
     width: 44px;
     font-size: 70px;
     height: 44px;
-    bottom: 22px;
-    left: 7px;
+    top: -40px;
+    left: 6px;
   }
   .icon-destaques {
     margin-top: 10px;
